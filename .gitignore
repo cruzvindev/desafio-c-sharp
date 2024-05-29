@@ -1,0 +1,18 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos temporários
+*.user
+*.vs
+
+# Arquivos de log e cache
+*.log
+*.cache
+
+# Arquivos específicos do Visual Studio
+.vscode/
+.vs/
+*.suo
+*.userprefs
+*.sln.docstates

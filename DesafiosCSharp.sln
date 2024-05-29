@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piramide", "DesafiosCSharp\Piramide.csproj", "{D3D09FCF-A26F-4538-AD98-5A5F5E26E027}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vertices", "Vertices\Vertices.csproj", "{AAD00BEC-0964-47A6-8B62-87C1F015D258}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangulo", "Triangulo\Triangulo.csproj", "{A50C36E3-C817-48CB-82AB-ABD2FA778C56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poligono", "Poligono\Poligono.csproj", "{1640B39E-DEED-4923-A6D1-6255CA8877A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intervalo", "Intervalo\Intervalo.csproj", "{10B95CFF-92DC-4E0A-8FD0-502B9C96EC63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5180EBB3-2E64-4E3C-BF28-96E38FC3EB2E}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D09FCF-A26F-4538-AD98-5A5F5E26E027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D09FCF-A26F-4538-AD98-5A5F5E26E027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D09FCF-A26F-4538-AD98-5A5F5E26E027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D09FCF-A26F-4538-AD98-5A5F5E26E027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD00BEC-0964-47A6-8B62-87C1F015D258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD00BEC-0964-47A6-8B62-87C1F015D258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD00BEC-0964-47A6-8B62-87C1F015D258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD00BEC-0964-47A6-8B62-87C1F015D258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50C36E3-C817-48CB-82AB-ABD2FA778C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50C36E3-C817-48CB-82AB-ABD2FA778C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50C36E3-C817-48CB-82AB-ABD2FA778C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50C36E3-C817-48CB-82AB-ABD2FA778C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1640B39E-DEED-4923-A6D1-6255CA8877A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1640B39E-DEED-4923-A6D1-6255CA8877A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1640B39E-DEED-4923-A6D1-6255CA8877A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1640B39E-DEED-4923-A6D1-6255CA8877A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B95CFF-92DC-4E0A-8FD0-502B9C96EC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B95CFF-92DC-4E0A-8FD0-502B9C96EC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B95CFF-92DC-4E0A-8FD0-502B9C96EC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B95CFF-92DC-4E0A-8FD0-502B9C96EC63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C96BB4E3-5DF4-4495-80CD-C5EED339D8E2}
+	EndGlobalSection
+EndGlobal
