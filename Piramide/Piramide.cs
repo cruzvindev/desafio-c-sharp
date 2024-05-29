@@ -27,24 +27,23 @@ namespace DesafiosCSharp.Piramide
             N = n;
         }
 
-       
         public void Desenha()
         {
             for (int i = 1; i <= N; i++)
             {
-                
+
                 for (int j = 0; j < N - i; j++)
                 {
                     Console.Write(" ");
                 }
 
-                
+
                 for (int j = 1; j <= i; j++)
                 {
                     Console.Write(j);
                 }
 
-                
+
                 for (int j = i - 1; j >= 1; j--)
                 {
                     Console.Write(j);

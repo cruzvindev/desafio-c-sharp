@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piramide", "DesafiosCSharp\Piramide.csproj", "{D3D09FCF-A26F-4538-AD98-5A5F5E26E027}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vertices", "Vertices\Vertices.csproj", "{AAD00BEC-0964-47A6-8B62-87C1F015D258}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangulo", "Triangulo\Triangulo.csproj", "{A50C36E3-C817-48CB-82AB-ABD2FA778C56}"
@@ -18,16 +16,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piramide", "Piramide\Piramide.csproj", "{CF9DEC25-4069-4D7F-B0C9-B438C0836718}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D3D09FCF-A26F-4538-AD98-5A5F5E26E027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3D09FCF-A26F-4538-AD98-5A5F5E26E027}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3D09FCF-A26F-4538-AD98-5A5F5E26E027}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3D09FCF-A26F-4538-AD98-5A5F5E26E027}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AAD00BEC-0964-47A6-8B62-87C1F015D258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AAD00BEC-0964-47A6-8B62-87C1F015D258}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAD00BEC-0964-47A6-8B62-87C1F015D258}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -44,6 +40,10 @@ Global
 		{10B95CFF-92DC-4E0A-8FD0-502B9C96EC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10B95CFF-92DC-4E0A-8FD0-502B9C96EC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10B95CFF-92DC-4E0A-8FD0-502B9C96EC63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9DEC25-4069-4D7F-B0C9-B438C0836718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9DEC25-4069-4D7F-B0C9-B438C0836718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9DEC25-4069-4D7F-B0C9-B438C0836718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9DEC25-4069-4D7F-B0C9-B438C0836718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
