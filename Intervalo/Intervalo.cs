@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesafiosCSharp.Intervalo
+namespace DesafiosCSharp.Intervalos
 {
     public class Intervalo
     {

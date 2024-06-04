@@ -1,9 +1,9 @@
-﻿using DesafiosCSharp.Intervalo;
+﻿using DesafiosCSharp.Intervalos;
 
-Intervalo intervaloA = new Intervalo(new DateTime(2024, 3, 10), new DateTime(2024, 3, 25));
-Intervalo intervaloB = new Intervalo(new DateTime(2024, 3, 12), new DateTime(2024, 3, 23));
-Intervalo intervaloC = new Intervalo(new DateTime(2024, 6, 26), new DateTime(2024, 7, 25));
-Intervalo intervaloD = new Intervalo(new DateTime(2024, 6, 26), new DateTime(2024, 7, 25));
+Intervalo intervaloA = new Intervalo(new DateTime(2024, 3, 10, 14, 30, 0), new DateTime(2024, 3, 25, 09, 15, 32));
+Intervalo intervaloB = new Intervalo(new DateTime(2024, 3, 12, 13, 45, 28), new DateTime(2024, 3, 23, 05, 12, 11));
+Intervalo intervaloC = new Intervalo(new DateTime(2024, 6, 26, 17, 54, 33), new DateTime(2024, 7, 25, 16, 00, 09));
+Intervalo intervaloD = new Intervalo(new DateTime(2024, 6, 26, 23, 54, 52), new DateTime(2024, 7, 25, 02, 34, 25));
 
 
 
